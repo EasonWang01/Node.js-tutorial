@@ -1,5 +1,10 @@
 var Me = require('./test1.js');
 
-Me.name();
+/* 1 */
+//Me.name();
 
+/* 2 */
 //console.log(Me);
+
+/* 3 */
+//console.log(Me.type);
